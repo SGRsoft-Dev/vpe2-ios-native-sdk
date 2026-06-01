@@ -30,7 +30,7 @@ https://github.com/SGRsoft-Dev/vpe2-ios-native-sdk.git
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/SGRsoft-Dev/vpe2-ios-native-sdk.git", from: "0.0.0")
+    .package(url: "https://github.com/SGRsoft-Dev/vpe2-ios-native-sdk.git", from: "1.0.4")
 ]
 ```
 
@@ -95,7 +95,7 @@ func application(_ app: UIApplication,
 
 ## 버전
 
-- **0.0.0** — `VPEPlayer.xcframework` (iOS device + iOS simulator)
+- **1.0.4** — `VPEPlayer.xcframework` (iOS device + iOS simulator)
 
 ## 라이선스 / 문의
 
