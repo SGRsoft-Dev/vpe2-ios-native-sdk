@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VPEPlayer",
-            url: "https://github.com/SGRsoft-Dev/vpe2-ios-native-sdk/releases/download/1.0.5/VPEPlayer.xcframework.zip",
-            checksum: "eff1a72df52ac579fe09cfa0e1cf5546f740febf540f7278386e907386322515"
+            url: "https://github.com/SGRsoft-Dev/vpe2-ios-native-sdk/releases/download/1.0.6/VPEPlayer.xcframework.zip",
+            checksum: "f278d277a8140a5a6b4551e973b3b24926a0a65a7a9afa47b2423900f0c784b9"
         )
     ]
 )
